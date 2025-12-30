@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/b5/06/c4/b506c40590a369d7249925a2df600649.gif" width="100%" alt="Space Banner" />
+![Banner](https://media.tenor.com/8XfhFrwNfv0AAAAM/space-pixel-art.gif)
 
 # Hi 👋, I'm Fong (馮)
 
@@ -35,9 +35,9 @@ I was a former competitive programmer. I retired in Grade 10 and wiped my old ac
 
 - 🗣️ **Languages I Speak:**
   <p align="left">
-    <img src="https://img.shields.io/badge/Thai-%E0%B9%84%E0%B8%97%E0%B8%A2-2E5C9A?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Thai-Native-2E5C9A?style=for-the-badge" />
     <img src="https://img.shields.io/badge/English-Fluent-0056D2?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Spanish-Espa%C3%B1ol-E3AB00?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Spanish-Basic-E3AB00?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Italian-Basic-008C45?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Mandarin-Learning-DE2910?style=for-the-badge" />
   </p>
