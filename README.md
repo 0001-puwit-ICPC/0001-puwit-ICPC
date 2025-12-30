@@ -9,7 +9,7 @@
 
 <img src="https://media1.tenor.com/m/kolecvfZWCgAAAAd/bobacat-psps.gif" align="right" width="120" alt="Bobacat">
 
-<img src="https://media.tenor.com/8XfhFrwNfv0AAAAM/space-pixel-art.gif" width="20%" alt="Space Banner">
+<img src="https://media.tenor.com/omUnOVfefXsAAAAi/maths.gif" width="20%" alt="Space Banner">
 
 
 </div>
