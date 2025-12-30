@@ -38,10 +38,8 @@ I was a former competitive programmer. I retired in Grade 10 and wiped my old ac
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0001-puwit-icpc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0001-puwit-icpc&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0001-puwit-icpc&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Langs" />
-</div>
+### 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=0001-puwit-icpc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=0001-puwit-icpc&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
