@@ -5,7 +5,7 @@
 <table border="0" width="100%">
   <tr>
     <td width="20%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmV5Y3VwczN5Y3VwczN5Y3VwczN5Y3VwczN5Y3VwczN5Y3VwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7btZ3T6y3JT0NaDf/giphy.gif" width="80" alt="Saturn">
+      <img src="https://media1.tenor.com/m/kolecvfZWCgAAAAd/bobacat-psps.gif" width="80" alt="Saturn">
     </td>
     <td width="60%" align="center">
       <h1>Hi 👋, I'm Fong (馮)</h1>
