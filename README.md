@@ -2,7 +2,14 @@
 
 ![Banner](https://media.tenor.com/8XfhFrwNfv0AAAAM/space-pixel-art.gif)
 
-# Hi 👋, I'm Fong (馮)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hi!+I'm+Fong+(%E9%A6%AE);Competitive+Programmer;Quant+Trader+in+Training;I+Suck+at+Python" alt="Typing SVG" />
+</a>
+
+</div>
+
+<img align="right" width="140" src="https://media.tenor.com/Avs530aK2QkAAAAi/pixel-art-space.gif" alt="Space" />
+
 ### You can call me Shi, Golf, or whatever you want.
 
 I was a former competitive programmer. I retired in Grade 10 and wiped my old accounts for personal reasons. After a 3-year break, I'm now in university and fully motivated to get back on the grind. During my break, I focused heavily on the **Mathematical Aspects of Trading and Financial Valuation** (check my other repositories for details).
@@ -12,10 +19,8 @@ I was a former competitive programmer. I retired in Grade 10 and wiped my old ac
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=0001-puwit-icpc&theme=tokyonight&hide_border=true" />
 </div>
-<br/>
-<br/>
 
-</div>
+<br/>
 
 - 🔭 I’m currently working on **Mathematical modeling for Algorithmic Trading strategies**
 
@@ -25,7 +30,10 @@ I was a former competitive programmer. I retired in Grade 10 and wiped my old ac
 
 - 💬 Ask me about **React, C++, JavaScript, High-level Math**
 
-- 📫 How to reach me **jelfheckbert@gmail.com**
+- 📫 How to reach me:
+  <a href="mailto:jelfheckbert@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
 - ⚡ Fun fact **I suck at Python**
 
@@ -38,5 +46,9 @@ I was a former competitive programmer. I retired in Grade 10 and wiped my old ac
 
 <br/>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0001-puwit-icpc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0001-puwit-icpc&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Langs" />
+</div>
 
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
