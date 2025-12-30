@@ -2,7 +2,7 @@
 ![Banner]((https://media.tenor.com/8XfhFrwNfv0AAAAM/space-pixel-art.gif))
 
 <h1 align="center">Hi 👋, I'm fong(馮) but you can call me shi/golf or whatever you want</h1>
-<h3 align="center">I was a former competitive programmer. I retired in Grade 10 and wiped my old accounts for personal reasons. After a 3-year hiatus, I'm now in university and fully motivated to get back on the grind. During my break, I focused heavily on the Mathematical Aspects of Trading and Financial Valuation (check my other repositories for details).</h3>
+<h3 align="center">I was a former competitive programmer. I retired in Grade 10 and wiped my old accounts for personal reasons. After a 3-year of break, I'm now in university and fully motivated to get back on the grind. During my break, I focused heavily on the Mathematical Aspects of Trading and Financial Valuation (check my other repositories for details).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0001-puwit-icpc&label=Profile%20views&color=0e75b6&style=flat" alt="0001-puwit-icpc" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Mathematical modeling for Algorithmic Trading strategies**
 
-- 🌱 I’m currently learning **python for algorithmic trading**
+- 🌱 I’m currently learning **python for algorithmic trading,PCB,rocket's telemetry,and GUI**
 
 - 👯 I’m looking to collaborate on **Open-source quantitative finance tools or C++ performance optimization**
 
