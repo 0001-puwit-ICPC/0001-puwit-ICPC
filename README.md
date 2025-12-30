@@ -10,7 +10,7 @@
       <img src="https://media1.tenor.com/m/kolecvfZWCgAAAAd/bobacat-psps.gif" width="50%" alt="Saturn">
     </td>
     <td width="1%" align="center">
-      <img src="https://media.tenor.com/8XfhFrwNfv0AAAAM/space-pixel-art.gif" width="100%" alt="Space Banner">
+      <img src="https://media.tenor.com/8XfhFrwNfv0AAAAM/space-pixel-art.gif" width="60%" alt="Space Banner">
     </td>
     <td width="1%" align="center">
       <img src="https://media1.tenor.com/m/kolecvfZWCgAAAAd/bobacat-psps.gif" width="50%" alt="UFO">
