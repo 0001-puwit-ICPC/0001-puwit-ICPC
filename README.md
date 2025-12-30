@@ -15,7 +15,8 @@
   I was a former competitive programmer. I retired in Grade 10 and wiped my old accounts for personal reasons. After a 3-year break, I'm now in university and fully motivated to get back on the grind. During my break, I focused heavily on the **Mathematical Aspects of Trading and Financial Valuation** (check my other repositories for details).
 
 
-
+<br>
+<br>
 
 
 
