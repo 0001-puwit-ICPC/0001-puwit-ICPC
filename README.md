@@ -6,13 +6,13 @@
 
 <table border="0" width="100%">
   <tr>
-    <td width="10%" align="center">
+    <td width="1%" align="center">
       <img src="https://media1.tenor.com/m/kolecvfZWCgAAAAd/bobacat-psps.gif" width="100%" alt="Saturn">
     </td>
-    <td width="10%" align="center">
+    <td width="1%" align="center">
       <img src="https://media.tenor.com/8XfhFrwNfv0AAAAM/space-pixel-art.gif" width="100%" alt="Space Banner">
     </td>
-    <td width="10%" align="center">
+    <td width="1%" align="center">
       <img src="https://media1.tenor.com/m/kolecvfZWCgAAAAd/bobacat-psps.gif" width="100%" alt="UFO">
     </td>
   </tr>
