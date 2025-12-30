@@ -3,15 +3,17 @@
 # Hi 👋, I'm Fong (馮)
 ### You can call me Shi, Golf, or whatever you want.
 
+<p>
+  <img src="https://media1.tenor.com/m/kolecvfZWCgAAAAd/bobacat-psps.gif" width="15%" alt="Bobacat" />
+  
+  &nbsp; &nbsp;
 
+  <img src="https://media.tenor.com/8XfhFrwNfv0AAAAM/space-pixel-art.gif" width="60%" alt="Space Banner" />
 
-<img src="https://media1.tenor.com/m/kolecvfZWCgAAAAd/bobacat-psps.gif" align="left" width="120" alt="Bobacat">
+  &nbsp; &nbsp;
 
-<img src="https://media1.tenor.com/m/kolecvfZWCgAAAAd/bobacat-psps.gif" align="right" width="120" alt="Bobacat">
-
-<img src="https://media.tenor.com/omUnOVfefXsAAAAi/maths.gif" width="20%" alt="Space Banner">
-
-
+  <img src="https://media1.tenor.com/m/kolecvfZWCgAAAAd/bobacat-psps.gif" width="15%" alt="Bobacat" />
+</p>
 </div>
 
 
