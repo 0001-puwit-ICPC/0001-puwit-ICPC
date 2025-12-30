@@ -9,10 +9,9 @@ I was a former competitive programmer. I retired in Grade 10 and wiped my old ac
 
 <br/>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=0001-puwit-icpc&theme=onedark&no-frame=true&margin-w=15" alt="trophy" />
-</a>
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0001-puwit-icpc&theme=tokyonight&hide_border=true" />
+</div>
 <br/>
 <br/>
 
