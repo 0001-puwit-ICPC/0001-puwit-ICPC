@@ -40,8 +40,6 @@
     <img src="https://img.shields.io/badge/Mandarin-Learning-DE2910?style=for-the-badge" />
   </p>
 
-- ⚡ Fun fact **I suck at Python**
-
 <br/>
 
 <div align="center"> 
