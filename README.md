@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Banner]((https://media.tenor.com/8XfhFrwNfv0AAAAM/space-pixel-art.gif))
 
 <h1 align="center">Hi 👋, I'm fong(馮) but you can call me shi/golf or whatever you want</h1>
 <h3 align="center">Former competitive programmer. I retired in Grade 10 and wiped my old accounts for personal reasons. After a 3-year hiatus, I'm now in university and fully motivated to get back on the grind. During my break, I focused heavily on the Mathematical Aspects of Trading and Financial Valuation (check my other repositories for details).</h3>
@@ -31,3 +32,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0001-puwit-icpc&show_icons=true&locale=en" alt="0001-puwit-icpc" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0001-puwit-icpc&" alt="0001-puwit-icpc" /></p>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=0001-puwit-ICPC&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Stats" />
+</div>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=cpp,py,git,vscode,arduino,matlab&theme=dark" />
+</div>
