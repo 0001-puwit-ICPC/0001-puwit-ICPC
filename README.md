@@ -33,6 +33,15 @@ I was a former competitive programmer. I retired in Grade 10 and wiped my old ac
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
+- 🗣️ **Languages I Speak:**
+  <p align="left">
+    <img src="https://img.shields.io/badge/Thai-%E0%B9%84%E0%B8%97%E0%B8%A2-2E5C9A?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/English-Fluent-0056D2?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Spanish-Espa%C3%B1ol-E3AB00?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Italian-Basic-008C45?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Mandarin-Learning-DE2910?style=for-the-badge" />
+  </p>
+
 - ⚡ Fun fact **I suck at Python**
 
 <br/>
