@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Fong (馮)
+# I'm Fong (馮) and I do math here
 ### You can call me Shi, Golf, or whatever you want.
 
 
