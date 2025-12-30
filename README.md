@@ -16,6 +16,10 @@
 
 
 
+
+
+
+
 - 🔭 I’m currently working on **Mathematical modeling for Algorithmic Trading strategies**
 
 - 🌱 I’m currently learning **Python for Algo Trading, PCB Design, Rocket Telemetry, and GUI**
