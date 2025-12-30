@@ -3,7 +3,7 @@
 <table border="0" width="100%">
   <tr>
     <td width="20%" align="center">
-      <img src="https://media.tenor.com/8XfhFrwNfv0AAAAM/space-pixel-art.gif" width="100%" alt="Saturn">
+      <img src="https://media1.tenor.com/m/kolecvfZWCgAAAAd/bobacat-psps.gif" width="100%" alt="Saturn">
     </td>
     <td width="60%" align="center">
       <img src="https://media.tenor.com/8XfhFrwNfv0AAAAM/space-pixel-art.gif" width="100%" alt="Space Banner">
