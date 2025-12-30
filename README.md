@@ -39,7 +39,7 @@
 
 - 👯 I’m looking to collaborate on **Open-source quantitative finance tools or C++ performance optimization**
 
-- 💬 Ask me about **React, C++, JavaScript, High-level Math**
+- 💬 Ask me about **Pure math, fibonacci, linear algebra, C++, JavaScript**
 
 - 📫 How to reach me:
   <a href="mailto:jelfheckbert@gmail.com">
