@@ -2,9 +2,7 @@
 
 ![Banner](https://media.tenor.com/8XfhFrwNfv0AAAAM/space-pixel-art.gif)
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hi!+I'm+Fong+(%E9%A6%AE);Competitive+Programmer;Quant+Trader+in+Training;I+Suck+at+Python" alt="Typing SVG" />
-</a>
+# Hi 👋, I'm Fong (馮)
 
 </div>
 
