@@ -1,6 +1,6 @@
 <div align="center">
 
-# I'm Fong (馮) and I do math here
+# Day 1354 of calling elon musk an asshole
 ### You can call me Shi, Golf, or whatever you want.
 
 
