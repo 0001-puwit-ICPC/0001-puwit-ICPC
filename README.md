@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner]([https://media.tenor.com/8XfhFrwNfv0AAAAM/space-pixel-art.gif](https://i.pinimg.com/originals/b5/06/c4/b506c40590a369d7249925a2df600649.gif))
+![Banner]([https://user-images.githubusercontent.com/102008985/170889222-19e1d88c-799d-4766-9e4a-4c74143a530f.gif]))
 
 # Hi 👋, I'm Fong (馮)
 
