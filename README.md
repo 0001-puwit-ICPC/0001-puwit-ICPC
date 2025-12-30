@@ -2,13 +2,20 @@
 
 ![Banner](https://media.tenor.com/8XfhFrwNfv0AAAAM/space-pixel-art.gif)
 
+<img align="left" width="100" src="https://media.tenor.com/54bC_wL0pDEAAAAi/saturn-planet.gif" alt="Saturn" />
+
+<img align="right" width="120" src="https://media.tenor.com/Jj7yK-a1tHMAAAAi/ufo-pixel-art.gif" alt="UFO" />
+
+<br/>
+
 # Hi 👋, I'm Fong (馮)
+### You can call me Shi, Golf, or whatever you want.
 
 </div>
 
-<img align="right" width="140" src="https://media.tenor.com/Avs530aK2QkAAAAi/pixel-art-space.gif" alt="Space" />
+<br/>
 
-### You can call me Shi, Golf, or whatever you want.
+<img align="right" width="140" src="https://media.tenor.com/Avs530aK2QkAAAAi/pixel-art-space.gif" alt="Space" />
 
 I was a former competitive programmer. I retired in Grade 10 and wiped my old accounts for personal reasons. After a 3-year break, I'm now in university and fully motivated to get back on the grind. During my break, I focused heavily on the **Mathematical Aspects of Trading and Financial Valuation** (check my other repositories for details).
 
