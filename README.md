@@ -9,7 +9,7 @@
       <img src="https://media1.tenor.com/m/kolecvfZWCgAAAAd/bobacat-psps.gif" width="100%" alt="Space Banner">
     </td>
     <td width="20%" align="center">
-      <img src="https://media.tenor.com/Jj7yK-a1tHMAAAAi/ufo-pixel-art.gif" width="100%" alt="UFO">
+      <img src="https://media1.tenor.com/m/kolecvfZWCgAAAAd/bobacat-psps.gif" width="100%" alt="UFO">
     </td>
   </tr>
 </table>
