@@ -14,11 +14,8 @@
 
   I was a former competitive programmer. I retired in Grade 10 and wiped my old accounts for personal reasons. After a 3-year break, I'm now in university and fully motivated to get back on the grind. During my break, I focused heavily on the **Mathematical Aspects of Trading and Financial Valuation** (check my other repositories for details).
 
-
 <br>
 <br>
-
-
 
 
 - 🔭 I’m currently working on **Mathematical modeling for Algorithmic Trading strategies**
@@ -33,7 +30,7 @@
   <a href="mailto:jelfheckbert@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
+- ⚡ Fun fact **I suck at Python, love math and cpp, having the peakest level of ADHD**
 - 🗣️ **Languages I Speak:**
   <p align="left">
     <img src="https://img.shields.io/badge/Thai-Native-2E5C9A?style=for-the-badge" />
