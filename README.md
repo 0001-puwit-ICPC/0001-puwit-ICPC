@@ -6,7 +6,7 @@
 
 <img src="https://media1.tenor.com/m/kolecvfZWCgAAAAd/bobacat-psps.gif" align="left" width="120" alt="Bobacat">
 
-<img src="https://media.tenor.com/8XfhFrwNfv0AAAAM/space-pixel-art.gif" align="right" width="15%" height="1" alt="Ghost Spacer">
+<img src="https://media.tenor.com/8XfhFrwNfv0AAAAM/space-pixel-art.gif" align="right" width="5%" height="1" alt="Ghost Spacer">
 
 <img src="https://media1.tenor.com/m/kolecvfZWCgAAAAd/bobacat-psps.gif" align="right" width="120" alt="Bobacat">
 
