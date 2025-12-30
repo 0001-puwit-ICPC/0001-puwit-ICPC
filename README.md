@@ -35,9 +35,9 @@ I was a former competitive programmer. I retired in Grade 10 and wiped my old ac
 
 - 🗣️ **Languages I Speak:**
   <p align="left">
-    <img src="https://img.shields.io/badge/Thai-%E0%B9%84%E0%B8%97%E0%B8%A2-2E5C9A?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Thai-Native-2E5C9A?style=for-the-badge" />
     <img src="https://img.shields.io/badge/English-Fluent-0056D2?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Spanish-Espa%C3%B1ol-E3AB00?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Spanish-basic-E3AB00?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Italian-Basic-008C45?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Mandarin-Learning-DE2910?style=for-the-badge" />
   </p>
@@ -54,8 +54,8 @@ I was a former competitive programmer. I retired in Grade 10 and wiped my old ac
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0001-puwit-icpc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0001-puwit-icpc&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0001-puwit-ICPC&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0001-puwit-ICPC&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Langs" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
