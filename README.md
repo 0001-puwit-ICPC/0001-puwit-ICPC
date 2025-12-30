@@ -4,7 +4,7 @@
 ### You can call me Shi, Golf, or whatever you want.
 
 
-<table border="0" width="100%">
+<table border="0" width="50%">
   <tr>
     <td width="1%" align="center">
       <img src="https://media1.tenor.com/m/kolecvfZWCgAAAAd/bobacat-psps.gif" width="100%" alt="Saturn">
