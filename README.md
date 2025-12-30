@@ -14,13 +14,7 @@
 
   I was a former competitive programmer. I retired in Grade 10 and wiped my old accounts for personal reasons. After a 3-year break, I'm now in university and fully motivated to get back on the grind. During my break, I focused heavily on the **Mathematical Aspects of Trading and Financial Valuation** (check my other repositories for details).
 
-<br/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0001-puwit-icpc&theme=tokyonight&hide_border=true" />
-</div>
-
-<br/>
 
 - 🔭 I’m currently working on **Mathematical modeling for Algorithmic Trading strategies**
 
@@ -54,7 +48,13 @@
 </div>
 
 <br/>
+<br/>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0001-puwit-icpc&theme=tokyonight&hide_border=true" />
+</div>
+
+<br/>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=0001-puwit-icpc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0001-puwit-icpc&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Langs" />
