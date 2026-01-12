@@ -36,7 +36,6 @@
     <img src="https://img.shields.io/badge/Thai-Native-2E5C9A?style=for-the-badge" />
     <img src="https://img.shields.io/badge/English-Fluent-0056D2?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Spanish-Basic-E3AB00?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Italian-Basic-008C45?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Mandarin-Learning-DE2910?style=for-the-badge" />
   </p>
 
