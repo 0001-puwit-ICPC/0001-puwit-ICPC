@@ -1,7 +1,7 @@
 <div align="center">
 
 # Day 1354 of calling elon musk an asshole
-### My granny call me fong(馮) but you can call me Shi, Golf, or whatever you want.
+### I'm fong but you can call me Golf.
 
 
 <img src="https://media1.tenor.com/m/kolecvfZWCgAAAAd/bobacat-psps.gif" align="left" width="120" alt="Bobacat">
@@ -12,7 +12,7 @@
 
 
 
-  I was a former competitive programmer. I retired in Grade 10 and wiped all of my programming accounts for personal reasons. After a 3-year break, I'm now in university and fully motivated to get back on the grind. During my break, I focused heavily on the $\color{#7DF9FF}\textsf{Mathematical Aspects of Trading and Financial Valuation}$ (check my other repositories for details).
+  I was a former competitive programmer. retired in Grade 10 and wiped all of my programming accounts for personal reasons. After a 3 year break, I'm now in university and fully motivated to get back on my route. During my break, I focused heavily on the $\color{#7DF9FF}\textsf{Mathematical Aspects of Trading and Financial Valuation}$ (check my other repositories for details).
 
 <br>
 <br>
@@ -22,7 +22,7 @@
 
 - 🌱 I’m currently learning $\color{#89DDFF}\textsf{Python for Algo Trading, PCB Design, Rocket Telemetry, and GUI}$
 
-- 👯 I’m looking to collaborate on $\color{#FFD700}\textsf{Open-source quantitative finance tools or C++ performance optimization}$
+- 👯 I’m looking to collaborate on $\color{#FFD700}\textsf{Open-source quantitative finance tools or cryptocurrentcy deverlopment}$
 
 - 💬 Ask me about $\color{#FF69B4}\textsf{Pure math, fibonacci, linear algebra, C++, JavaScript}$
 
@@ -30,7 +30,7 @@
   <a href="mailto:jelfheckbert@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-- ⚡ Fun fact $\color{#FF4500}\textsf{I suck at Python, love math and cpp, having the peakest level of ADHD}$
+- ⚡ Fun fact $\color{#FF4500}\textsf{I suck at Python, great at math and cpp, having the peakest level of ADHD}$
 - 🗣️ **Languages I Speak:**
   <p align="left">
     <img src="https://img.shields.io/badge/Thai-Native-2E5C9A?style=for-the-badge" />
@@ -43,7 +43,7 @@
 
 <div align="center"> 
   <h3>Languages and Tools</h3>
-  <img src="https://skillicons.dev/icons?i=cpp,c,cs,python,matlab,rust,html,css,js,react,flutter,mysql,git,vscode,arduino&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,cs,python,matlab,rust,html,css,js,react,git,vscode,arduino&theme=dark" />
 </div>
 
 <br/>
