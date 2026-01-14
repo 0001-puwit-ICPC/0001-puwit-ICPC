@@ -30,7 +30,7 @@
   <a href="mailto:jelfheckbert@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-- ⚡ Fun fact $\color{#FF4500}\textsf{I suck at Python, great at math and cpp, having the peakest level of ADHD}$
+- ⚡ Fun fact $\color{#FF4500}\textsf{I love programming, but i do a lot better on math}$
 - 🗣️ **Languages I Speak:**
   <p align="left">
     <img src="https://img.shields.io/badge/Thai-Native-2E5C9A?style=for-the-badge" />
@@ -50,13 +50,13 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0001-puwit-icpc&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeefong-P&theme=tokyonight&hide_border=true" />
 </div>
 
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0001-puwit-icpc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0001-puwit-icpc&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jeefong-P&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jeefong-P&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Langs" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
